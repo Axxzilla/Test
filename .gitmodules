@@ -1,0 +1,6 @@
+[submodule "testSubmodule"]
+	path = testSubmodule
+	url = https://github.com/Axxzilla/testSubmodule.git
+[submodule "test-submodule"]
+	path = test-submodule
+	url = https://github.com/Axxzilla/test-submodule.git

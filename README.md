@@ -1,8 +1,6 @@
 Test
 
-<<<<<<< HEAD
-zzz
-=======
+zzz aaa
 
 >>>>>>> develop
 

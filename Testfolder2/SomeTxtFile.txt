@@ -1,4 +1,4 @@
 first line
-
+line to conflict
 third line
 fourth line

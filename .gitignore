@@ -4,3 +4,5 @@ IGNOREthisfolder/
 Testfolder2/SomeTxtFilehere\.txt
 
 Testfolder2/SomeTxtFile\.txt
+
+.DS_Store

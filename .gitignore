@@ -7,3 +7,6 @@ Testfolder2/SomeTxtFile\.txt
 
 *.DS_Store
 *.test
+
+# Ignore all folders that start with _
+**/_*/

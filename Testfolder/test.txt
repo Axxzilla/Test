@@ -2,6 +2,14 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 zzzzzzz
 aaaaaaaaaaa
 bbbbbbb
+<<<<<<< HEAD
+<<<<<<< HEAD
+ccccccccccc
+ddddddddd
+=======
+ccc
+>>>>>>> 12345
+=======
 ccccccccccc
 ddddddddd
 eeeeeeeeeeeeeeee
@@ -19,3 +27,4 @@ ppppppppppppppppppppppppppppppppppppp
 qqqqqqqqqqqqqqqqqqq qqq
 rrrrrrrrrrrrrrrrrrrrr 
 ssss  
+>>>>>>> develop

@@ -2,3 +2,4 @@ foo1
 bar
 biz
 +++4
+conflict

@@ -1,4 +1,8 @@
 
+*.[Cc]ache
+!*.[Cc]ache/
+
+
 IGNOREthisfolder/
 
 Testfolder2/SomeTxtFilehere\.txt

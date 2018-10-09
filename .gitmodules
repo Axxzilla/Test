@@ -1,3 +1,5 @@
 [submodule "Animals"]
 	path = Animals
 	url = https://github.com/Axxzilla/Animals
+[submodule "ATestFolder/TestGloSync"]
+	url = https://github.com/Axosoft/TestGloSync.git

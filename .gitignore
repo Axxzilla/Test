@@ -13,7 +13,6 @@ Testfolder2/SomeTxtFilehere\.txt
 Testfolder2/SomeTxtFile\.txt
 
 *.DS_Store
-*.test
 *.fish
 
 # Ignore all folders that start with _

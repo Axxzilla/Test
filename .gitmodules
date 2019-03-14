@@ -3,3 +3,6 @@
 [submodule "Animals"]
 	path = Animals
 	url = https://github.com/Axxzilla/Animals.git
+[submodule "Test-LFS"]
+	path = Test-LFS
+	url = https://github.com/Axxzilla/Test-LFS.git

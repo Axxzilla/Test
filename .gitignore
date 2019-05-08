@@ -13,6 +13,10 @@ Testfolder2/SomeTxtFilehere\.txt
 Testfolder2/SomeTxtFile\.txt
 
 *.DS_Store
+<<<<<<< HEAD
+=======
+#*.test
+>>>>>>> 2019_FCV_Release_R1.3
 *.fish
 
 # Ignore all folders that start with _

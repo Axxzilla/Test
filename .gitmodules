@@ -6,3 +6,6 @@
 [submodule "Test-LFS"]
 	path = Test-LFS
 	url = https://github.com/Axxzilla/Test-LFS.git
+[submodule "testSubmodule"]
+	path = testSubmodule
+	url = git@github.com:Axxzilla/testSubmodule.git

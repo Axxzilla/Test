@@ -1,12 +1,23 @@
 testtest
+<<<<<<< test45677
+zzzzzzzzzzzz
+=======
+yyyyyyyyyyyyy
 test
 test
 test
 test
+<<<<<<< HEAD
 test
 test
 test
 wowdfgdfg
+=======
+
+wow
+>>>>>>> yyyyy
+wow
+>>>>>>> tttt
 wow
 wow
 wow
